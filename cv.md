@@ -62,4 +62,4 @@ See more of my code and completed projects on my [GitHub](https://github.com/Ale
 
 **May 2022 - ITVDN** *Introduction to Programming Using HTML and CSS*
 
-2007-2011 - Kyiv National Linguistic Universty** *MA,Teaching English and German as a Second Language, World Literature*
+**2007-2011 - Kyiv National Linguistic Universty** *MA,Teaching English and German as a Second Language, World Literature*
