@@ -55,3 +55,11 @@ waitFor("5 sec", "Sasha").then((name) => console.log(name));
 
 See more of my code and completed projects on my [GitHub](https://github.com/AleKoles).
 
+## Education
+**September 2022 - DEV.PRO** *JS Course for beginners*
+
+**Jun-Aug 2022 - SheCodes** *Front End Development*, *React*
+
+**May 2022 - ITVDN** *Introduction to Programming Using HTML and CSS*
+
+2007-2011 - Kyiv National Linguistic Universty** *MA,Teaching English and German as a Second Language, World Literature*
